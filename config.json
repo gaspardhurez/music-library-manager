@@ -1,0 +1,22 @@
+{
+    "spotify": {
+        "SPOTIFY_CLIENT_ID": "14b296246c054d21bf2fb0ff3f2548fc",
+        "SPOTIFY_CLIENT_SECRET": "df432db88aab4e35a1d2f091fa55990f",
+        "SPOTIFY_PLAYLIST_ID": "5R5gYIMdrfjIzsIuA8Dvyi"
+
+    },
+
+    "youtube": {
+        "YOUTUBE_PLAYLIST_URL": "https://www.youtube.com/playlist?list=PLH-7mXjff8ld39SGz8leoVUqu8XfUhcu9"
+    },
+
+    "soulseek": {
+        "SOULSEEK_USERNAME": "gaspardhurez",
+        "SOULSEEK_PASSWORD": "s1511Cac&o"
+    },
+
+    "library": {
+        "LIBRARY_PATH": "/Users/gaspardhurez/Music/rekordbox-collection"
+    }
+
+}
